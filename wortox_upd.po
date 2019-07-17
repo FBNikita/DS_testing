@@ -1,8 +1,3 @@
-#. STRINGS.ACTIONS.BLINK.GENERIC
-msgctxt "STRINGS.ACTIONS.BLINK.GENERIC"
-msgid "Telepoof"
-msgstr ""
-
 #. STRINGS.ACTIONS.BLINK.SOUL
 msgctxt "STRINGS.ACTIONS.BLINK.SOUL"
 msgid "Soul Hop"
@@ -260,8 +255,8 @@ msgstr "Огонь - это не игрушка, рогатый человече
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WORTOX.GENERIC
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WORTOX.GENERIC"
-msgid "Is scary horn man, %s! H-hello!"
-msgstr "Страшный рогатый парень, %s! П-привет!"
+msgid "Is scary horn man, %s!"
+msgstr "Страшный рогатый парень, %s!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WORTOX.GHOST
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.WORTOX.GHOST"
@@ -2385,17 +2380,17 @@ msgstr "Недогоревшее дерево."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK1"
-msgid "It looks quite broke, and that's no joke!"
+msgid "It looks quite broke, and that's no joke!'"
 msgstr "Разбиты эти штуки, это совсем не шутки!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK2"
-msgid "It looks quite broke, and that's no joke!"
+msgid "It looks quite broke, and that's no joke!'"
 msgstr "Разбиты эти штуки, это совсем не шутки!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK3
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSJUNK3"
-msgid "It looks quite broke, and that's no joke!"
+msgid "It looks quite broke, and that's no joke!'"
 msgstr "Разбиты эти штуки, это совсем не шутки!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
@@ -2418,13 +2413,13 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYWARG"
 msgid "So scary, rendered still in stone."
 msgstr "Такой страшный, запечатлён застывшим в камне."
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_FORMAL.GENERIC"
 msgid "You've a much too competitive spirit, sir."
 msgstr "У вас слишком конкурентный дух, сэр."
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_HORNUCOPIA.GENERIC"
 msgid "What a funny use for a horn!"
 msgstr "Какое забавное применение рога!"
 
@@ -2438,18 +2433,18 @@ msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE"
 msgid "Yes, yes, come play!"
 msgstr "Да, да, идём играть!"
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MUSE.GENERIC"
 msgid "How whimsically elegant."
 msgstr "Как причудливо элегантно."
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PAWN.GENERIC"
 msgid "Would you like to play?"
 msgstr "Хочешь поиграть?"
 
-#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE
-msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE"
+#. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE.GENERIC
+msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_PIPE.GENERIC"
 msgid "Bubble, bubble, no such trouble."
 msgstr "Пузырики, пузырики, и не каких проблем."
 
@@ -4585,7 +4580,7 @@ msgstr "Пучок дерева, чтобы воткнуть в землю."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAUR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAUR"
-msgid "Goodness gracious, aren't you fearsome."
+msgid "Goodness gracious, aren't you fearsome.'"
 msgstr "Матерь божья, ты не боишься?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MINOTAURCHEST
@@ -5850,7 +5845,7 @@ msgstr "Люди используют это как \"специю\"."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SALT_RACK.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SALT_RACK.GENERIC"
-msgid "The mortals crave these minerals."
+msgid " The mortals crave these minerals."
 msgstr " Смертные любят эти минералы."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SALT_RACK.READY
@@ -6540,7 +6535,7 @@ msgstr "Давай, поиграем!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.UNCOVERED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.UNCOVERED"
-msgid "Look! It's a rook!"
+msgid "Look! It's a rook!'"
 msgstr "Смотри! Это ладья!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKNOSE
@@ -6940,8 +6935,8 @@ msgstr "Это просто камень."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER"
-msgid "Your mind's not quite right, but neither is mine!"
-msgstr "Твой рассудок сейчас немного не в порядке, в отличии от моего!"
+msgid "You're mind's not quite right, but neither is mine!"
+msgstr "Сейчас ты немного не в себе, как и я!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER_ATRIUM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STALKER_ATRIUM"
